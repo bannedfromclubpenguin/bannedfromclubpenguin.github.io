@@ -3,16 +3,17 @@ The place to find your community on campus. With Community, you won't have to fe
 
 ## Screenshots
 ![Landing Page](images/landing.png)
-[Link]()
+[Link](http://community.meteorapp.com/)
 
 ![Profile Page](images/landing.png)
-[Link]()
+[Link](http://community.meteorapp.com/tcchong/profile)
 
 ![Filter Page](images/filter.png)
-[Link]()
+[Link](http://community.meteorapp.com/tcchong/filter)
+
 
 ## Links
 [Organization](https://github.com/uhcommunity)
 [M1 Project Page](https://github.com/uhcommunity/Community/projects/1)
 [M2 Project page](https://github.com/uhcommunity/Community/projects/2)
-[Deployment]()
+[Deployment](http://community.meteorapp.com/)
