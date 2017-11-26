@@ -11,6 +11,7 @@ The place to find your community on campus. With Community, you won't have to fe
 ![Filter Page](images/filter.png)
 [Link](http://community.meteorapp.com/tcchong/filter)
 
+Admin Page is in the project, but unavailable for screenshots due to login issues.
 
 ## Links
 [Organization](https://github.com/uhcommunity)
