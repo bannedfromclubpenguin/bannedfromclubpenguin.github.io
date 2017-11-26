@@ -15,6 +15,9 @@ Admin Page is in the project, but unavailable for screenshots due to login issue
 
 ## Links
 [Organization](https://github.com/uhcommunity)
+
 [M1 Project Page](https://github.com/uhcommunity/Community/projects/1)
+
 [M2 Project page](https://github.com/uhcommunity/Community/projects/2)
+
 [Deployment](http://community.meteorapp.com/)
