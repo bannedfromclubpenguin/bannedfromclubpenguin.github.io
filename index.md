@@ -34,18 +34,18 @@ Step 4: Run the program using: % meteor npm run start
 You can modify our program by first downloading it from our GitHub site and using an IDE to edit the code.
 
 ## Community Feedback
-"Luk pertty gud" - Chris Jarole
 
-"Looks pretty shitty" - Ross Kurizaki
+"You should add censorship" - UH Student
 
-"Phillip Johnson Approved" - Tyler1 Chong
+"Looks pretty shitty" - UH Student
 
-"Pretty useful" - Kaimana Machii
+"Phillip Johnson Approved" - UH Student
 
-"Wednesday night, see you there" - Jason the God
+"Pretty useful" - UH Student
 
-"Hmmmmmm Meteor Sucks" - Ethan Chow
+"Thank goodness for this site!  Much beter than looking up clubs in the schools excel sheet..." - UH Student
 
+"Can find clubs good brah. I like the ability to comment on clubs and see what people think." - UH Student
 
 
 ## Links
