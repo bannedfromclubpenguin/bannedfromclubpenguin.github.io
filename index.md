@@ -72,6 +72,25 @@ You can modify our program by first downloading it from our GitHub site and usin
 ### Android Emulation
 ![Proof](images/androidProof.png)
 
+meteor run android
+[[[[[ ~/Desktop/workspace/school/ics314/Community/app ]]]]]
+
+=> Started proxy.
+=> A patch (Meteor 1.5.4.1) for your current release is available!
+   Update this project now with 'meteor update --patch'.
+=> Started MongoDB.
+WARNING: Attempting to install plugin cordova-plugin-statusbar@2.2.1, but it should have
+         a minimum version of 2.2.3 to ensure compatibility with the current platform
+         versions. Installing the minimum version for convenience, but you should adjust
+         your dependencies.
+WARNING: Attempting to install plugin cordova-plugin-splashscreen@4.0.1, but it should
+         have a minimum version of 4.0.3 to ensure compatibility with the current
+         platform versions. Installing the minimum version for convenience, but you
+         should adjust your dependencies.
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+
 ## Links
 [Organization](https://github.com/uhcommunity)
 
