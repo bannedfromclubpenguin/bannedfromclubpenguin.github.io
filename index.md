@@ -14,8 +14,14 @@ First you arrive on the landing page and log in using your UH login information.
 ![Filter Page](images/filter2.png)
 [Link](http://community.meteorapp.com/tcchong/filter)
 
-![Filter Page](images/admin2.png)
+![Admin Page](images/admin2.png)
 [Link](http://community.meteorapp.com/tcchong/clubadmin)
+
+![Profile Page](images/profile3.png)
+[Link](http://community.meteorapp.com/jordanoo/profile/jordanoo)
+
+![Club Page](images/clubpage2.png)
+[Link](http://community.meteorapp.com/jordanoo/clubpage/AtqoKMCsEpvMmdsf7)
 
 ## Developer Guide
 For those who want to use and modify our program: 
