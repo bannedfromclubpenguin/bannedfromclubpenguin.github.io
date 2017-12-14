@@ -21,7 +21,12 @@ On this profile page you can edit your profile information, such as adding inter
 On this page you can view the club that you are the admin of and you can see the comments that other users had commented on that club. You can also edit the information of the club. 
 
 ![Admin Page](images/admin2.png)
+
+![Admin Page](images/comment2.png)
 [Link](http://community.meteorapp.com/tcchong/clubadmin)
+
+![Admin Page](images/admin2.png)
+
 
 On this page you can see the user's information, what clubs the user had liked, and what comments the user had made.
 
