@@ -27,7 +27,7 @@ Step 2: Download our project at our GitHub site.
 
 Step 3: Enter the app directory of the project and install libraries using: $ meteor npm install
 
-Step 4: Run the program using: % meteor npm run start 
+Step 4: Run the program using: $ meteor npm run start 
 
 ### Modifying
 
