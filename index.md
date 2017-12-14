@@ -8,7 +8,7 @@ First you arrive on the landing page. Here you can see our goal and what we beli
 ![Landing Page](images/landing2.png)
 [Link](http://community.meteorapp.com/)
 
-Once you log in you arrive at the filter page. On this page you can filter out other clubs based on their interests and search for clubs with their name. You can click on the club admin tab if you are an admin of a club to get to the club admin page, You can click on logout to log out of your account, you can click on your profile to get to your profile page, and you can click on the clubs to get to their club page. 
+Once you log in you arrive at the filter page. On this page you can filter out other clubs based on their interests and search for clubs with their name. You can click on the club admin tab if you are an admin of a club to get to the club admin page, You can click on logout to log out of your account, you can click on your profile to get to your profile page, and you can click on the clubs to get to their club page.
 
 ![Filter Page](images/filter2.png)
 [Link](http://community.meteorapp.com/tcchong/filter)
@@ -19,7 +19,7 @@ On this profile page you can edit your profile information, such as adding inter
 ![Like Page](images/like2.png)
 [Link](http://community.meteorapp.com/tcchong/profile)
 
-On this page you can view the club that you are the admin of and you can see the comments that other users had commented on that club. You can also edit the information of the club. 
+On this page you can view the club that you are the admin of and you can see the comments that other users had commented on that club. You can also edit the information of the club.
 
 ![Admin Page](images/admin2.png)
 
@@ -33,13 +33,13 @@ On this page you can see the user's information, what clubs the user had liked, 
 [Link](http://community.meteorapp.com/jordanoo/profile/jordanoo)
 
 
-On this page you can view the information of the club you are viewing, the comments that were made for that club, and how  many likes the club received. You can click on the little heart near the name of the club to add your like or remove your like to the club. You can also click on the username of the comments to go to that user's profile page. 
+On this page you can view the information of the club you are viewing, the comments that were made for that club, and how  many likes the club received. You can click on the little heart near the name of the club to add your like or remove your like to the club. You can also click on the username of the comments to go to that user's profile page.
 
 ![Club Page](images/clubpage2.png)
 [Link](http://community.meteorapp.com/jordanoo/clubpage/AtqoKMCsEpvMmdsf7)
 
 ## Developer Guide
-For those who want to use and modify our program: 
+For those who want to use and modify our program:
 
 ### Installing
 
@@ -49,7 +49,7 @@ Step 2: Download our project at our GitHub site.
 
 Step 3: Enter the app directory of the project and install libraries using: $ meteor npm install
 
-Step 4: Run the program using: $ meteor npm run start 
+Step 4: Run the program using: $ meteor npm run start
 
 ### Modifying
 
@@ -67,6 +67,10 @@ You can modify our program by first downloading it from our GitHub site and usin
 
 "I can find the clubs I want easily. I also like the ability to comment on clubs and see what people think." - UH Student
 
+## Extra Credit
+
+### Android Emulation
+![Proof](images/androidProof.png)
 
 ## Links
 [Organization](https://github.com/uhcommunity)
