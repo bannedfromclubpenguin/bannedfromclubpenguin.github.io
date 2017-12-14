@@ -39,8 +39,6 @@ You can modify our program by first downloading it from our GitHub site and usin
 
 "Looks pretty shitty" - UH Student
 
-"Phillip Johnson Approved" - UH Student
-
 "Pretty useful" - UH Student
 
 "Thank goodness for this site!  Much beter than looking up clubs in the schools excel sheet..." - UH Student
