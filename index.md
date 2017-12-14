@@ -21,10 +21,15 @@ For those who want to use and modify our program, head to our github site and cl
 
 ## Community Feedback
 "Luk pertty gud" - Chris Jarole
+
 "Looks pretty shitty" - Ross Kurizaki
+
 "Phillip Johnson Approved" - Tyler1 Chong
+
 "Pretty useful" - Kaimana Machii
+
 "Wednesday night, see you there" - Jason the God
+
 "Hmmmmmm Meteor Sucks" - Ethan Chow
 
 
