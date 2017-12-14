@@ -71,6 +71,9 @@ You can modify our program by first downloading it from our GitHub site and usin
 
 ### Android Emulation
 ![Proof](images/androidProof.png)
+![Proof](images/proof2.png)
+
+
 
 ### IOS Emulation
 ![Proof](images/iosProof.png)
