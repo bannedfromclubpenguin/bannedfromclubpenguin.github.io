@@ -57,15 +57,15 @@ You can modify our program by first downloading it from our GitHub site and usin
 
 ## Community Feedback
 
-"You should add censorship." - UH Student
+"You should add censorship to the comments in case other users use inappropriate language." - UH Student
 
-"The color scheme is nice and everything seems like it is working fine." - UH Student
+"The color scheme is nice and everything seems like it is working fine. It looks easy for me to use." - UH Student
 
-"Pretty useful." - UH Student
+"I think this site is pretty useful. I tried looking up UH clubs before and all I found was an excel sheet." - UH Student
 
-"Thank goodness for this site!  Much beter than looking up clubs in the schools excel sheet..." - UH Student
+"Thank goodness for this site! It's much beter than looking up clubs in the schools excel sheet." - UH Student
 
-"Can find clubs good brah. I like the ability to comment on clubs and see what people think." - UH Student
+"I can find the clubs I want easily. I also like the ability to comment on clubs and see what people think." - UH Student
 
 
 ## Links
