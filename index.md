@@ -2,23 +2,34 @@
 The place to find your community on campus. With Community, you won't have to feel so alone anymore. People can filter for communities based on their interests, and get more information about those specific communities. Information such as the name of the community, when and where the community meets, and what the community does. Registered individuals can input information about their organization, and let everyone know about certain information they would like shown.
 
 ## User Guide
-First you arrive on the landing page and log in using your UH login information. Once logged in you arrive at the filter page. On this page you can add clubs to your favorites, view clubs that you have favorited and you can filter clubs based on club names and interests. On the menu bar you can access your profile, the filter page, and the club admin page if you are an admin of a club. If you go to the club admin page you can adjust the information of the club you are the admin of. If you go to your profile page you can adjust the information of your profile to show what your interests are and your favorite clubs. Each club has their own page and you can add a like to that club or add some comments on the club's page. 
 
-## Screenshots
+First you arrive on the landing page. Here you can see our goal and what we believe in. You can login by clicking the Get Involved button in the middle of the screen.
+
 ![Landing Page](images/landing2.png)
 [Link](http://community.meteorapp.com/)
 
-![Profile Page](images/profile2.png)
-[Link](http://community.meteorapp.com/tcchong/profile)
+Once you log in you arrive at the filter page. On this page you can filter out other clubs based on their interests and search for clubs with their name. You can click on the club admin tab if you are an admin of a club to get to the club admin page, You can click on logout to log out of your account, you can click on your profile to get to your profile page, and you can click on the clubs to get to their club page. 
 
 ![Filter Page](images/filter2.png)
 [Link](http://community.meteorapp.com/tcchong/filter)
 
+On this profile page you can edit your profile information, such as adding interests and a description of yourself. You can also view which clubs that you have liked.
+
+![Profile Page](images/profile2.png)
+[Link](http://community.meteorapp.com/tcchong/profile)
+
+On this page you can view the club that you are the admin of and you can see the comments that other users had commented on that club. You can also edit the information of the club. 
+
 ![Admin Page](images/admin2.png)
 [Link](http://community.meteorapp.com/tcchong/clubadmin)
 
-![Profile Page](images/profile3.png)
+On this page you can see the user's information, what clubs the user had liked, and what comments the user had made.
+
+![Another's Profile Page](images/profile3.png)
 [Link](http://community.meteorapp.com/jordanoo/profile/jordanoo)
+
+
+On this page you can view the information of the club you are viewing, the comments that were made for that club, and how  many likes the club received. You can click on the little heart near the name of the club to add your like or remove your like to the club. You can also click on the username of the comments to go to that user's profile page. 
 
 ![Club Page](images/clubpage2.png)
 [Link](http://community.meteorapp.com/jordanoo/clubpage/AtqoKMCsEpvMmdsf7)
