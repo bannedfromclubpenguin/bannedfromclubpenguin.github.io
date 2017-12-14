@@ -16,6 +16,7 @@ Once you log in you arrive at the filter page. On this page you can filter out o
 On this profile page you can edit your profile information, such as adding interests and a description of yourself. You can also view which clubs that you have liked.
 
 ![Profile Page](images/profile2.png)
+![Like Page](images/like2.png)
 [Link](http://community.meteorapp.com/tcchong/profile)
 
 On this page you can view the club that you are the admin of and you can see the comments that other users had commented on that club. You can also edit the information of the club. 
