@@ -5,16 +5,17 @@ The place to find your community on campus. With Community, you won't have to fe
 First you arrive on the landing page and log in using your UH login information. Once logged in you arrive at the filter page. On this page you can add clubs to your favorites, view clubs that you have favorited and you can filter clubs based on club names and interests. On the menu bar you can access your profile, the filter page, and the club admin page if you are an admin of a club. If you go to the club admin page you can adjust the information of the club you are the admin of. If you go to your profile page you can adjust the information of your profile to show what your interests are and your favorite clubs. Each club has their own page and you can add a like to that club or add some comments on the club's page. 
 
 ## Screenshots
-![Landing Page](images/landing.png)
+![Landing Page](images/landing2.png)
 [Link](http://community.meteorapp.com/)
 
-![Profile Page](images/landing.png)
+![Profile Page](images/profile2.png)
 [Link](http://community.meteorapp.com/tcchong/profile)
 
-![Filter Page](images/filter.png)
+![Filter Page](images/filter2.png)
 [Link](http://community.meteorapp.com/tcchong/filter)
 
-Admin Page is in the project, but unavailable for screenshots due to login issues.
+![Filter Page](images/admin2.png)
+[Link](http://community.meteorapp.com/tcchong/clubadmin)
 
 ## Developer Guide
 For those who want to use and modify our program: 
